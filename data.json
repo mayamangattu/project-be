@@ -1,0 +1,207 @@
+{
+    "users": [
+      {
+        "email": "tina@gmail.com",
+        "password": "tinsy44xx",
+        "firstname": "Tina",
+        "lastname": "Jacobs"
+      },
+      {
+        "email": "John",
+        "password": "johhny7844##",
+        "firstname": "Johnathan",
+        "lastname": "D sa"
+      },
+      {
+        "firstname": "Ravi",
+        "lastname": "Raj",
+        "email": "raj1980@gmail.com",
+        "password": "asdasd"
+      }
+    ],
+    "orders": [
+      {
+       
+        "dish": "Veg Manchow Soup",
+        "price": 160,
+        "isveg": true,
+        "restaurant": "Taj Hotel"
+      }
+    ],
+    "restaurants": [
+      {
+       
+        "name": "Taj Vivanta",
+        "address": "Viman Nagar, Near airport",
+        "city": "Pune",
+        "costfortwo": "1000 - 1500",
+        "contact": 918983233321,
+        "mealtypes": [
+          "Lunch",
+          "NightLife",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Fast Food"
+        ],
+        "images": [
+          "https://preview.pixlr.com/images/450nwm/1196/2/1196113615.jpg",
+          "https://preview.pixlr.com/images/450nwm/1042/2/1042101530.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      },
+      {
+        
+        "name": "Delhi Darbar",
+        "address": "Anand Vihar",
+        "city": "Delhi",
+        "costfortwo": "1000 - 1500",
+        "contact": 91777000034,
+        "mealtypes": [
+          "Lunch",
+          "NightLife",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Fast Food"
+        ],
+        "images": [
+          "https://preview.pixlr.com/images/450nwm/1196/2/1196113615.jpg",
+          "https://preview.pixlr.com/images/450nwm/1042/2/1042101530.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      },
+      {
+        
+        "name": "Delhi Darbar",
+        "address": "Anand Vihar",
+        "city": "Delhi",
+        "costfortwo": "1000 - 1500",
+        "contact": 91777000034,
+        "mealtypes": [
+          "Lunch",
+          "NightLife",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Fast Food"
+        ],
+        "images": [
+          "https://preview.pixlr.com/images/450nwm/1196/2/1196113615.jpg",
+          "https://preview.pixlr.com/images/450nwm/1042/2/1042101530.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      },
+      {
+        
+        "name": "Lazeez",
+        "address": "Jakat Naka",
+        "city": "Pune",
+        "costfortwo": "1500 - 2000",
+        "contact": 91777000034,
+        "mealtypes": [
+          "Lunch",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Drinks"
+        ],
+        "images": [
+          "https://preview.pixlr.com/images/450nwm/1196/2/1196113615.jpg",
+          "https://preview.pixlr.com/images/450nwm/1042/2/1042101530.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      },{
+       
+        "name": "Butterfly",
+        "address": "London Bridge",
+        "city": "Pune",
+        "costfortwo": "<500",
+        "contact": 91777000034,
+        "mealtypes": [
+          "Snacks"
+        ],
+        "cuisines": [
+          "Chinese",
+          "Fast Food"
+        ],
+        "images": [
+          "https://preview.pixlr.com/images/450nwm/1196/2/1196113615.jpg",
+          "https://preview.pixlr.com/images/450nwm/1042/2/1042101530.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      },
+      {
+        
+        "name": "Radha Krishna",
+        "address": "FC Road",
+        "city": "Pune",
+        "costfortwo": "1000 - 1500",
+        "contact": 91777000034,
+        "mealtypes": [
+          "Lunch",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "South Indian"
+        ],
+        "images": [
+          "https://preview.pixlr.com/images/450nwm/1196/2/1196113615.jpg",
+          "https://preview.pixlr.com/images/450nwm/1042/2/1042101530.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      },
+      {
+       
+        "name": "Shabnam",
+        "address": "Chandni Chowk",
+        "city": "Pune",
+        "costfortwo": "500 - 1000",
+        "contact": 91777000034,
+        "mealtypes": [
+          "NightLife"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Drinks"
+        ],
+        "images": [
+          "https://preview.pixlr.com/images/450nwm/1196/2/1196113615.jpg",
+          "https://preview.pixlr.com/images/450nwm/1042/2/1042101530.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      }
+    ],
+    "locations": [
+      {
+        "address": "Viman Nagar, Near airport",
+        "city": "Pune"
+      },
+      {
+        "address": "Anand Vihar",
+        "city": "Delhi"
+      },
+      {
+        "address": "Jakat Naka",
+        "city": "Pune"
+      },
+      {
+        "address": "London Bridge",
+        "city": "Pune"
+      }, {
+        "address": "FC Road",
+        "city": "Pune"
+      },
+      {
+        "address": "Chandni Chowk",
+        "city": "Pune"
+      }
+    ]
+  }
+  
+  

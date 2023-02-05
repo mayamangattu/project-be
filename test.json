@@ -1,0 +1,27 @@
+{
+    "data":[
+   
+      {
+        "address": "Viman Nagar, Near airport",
+        "city": "Pune"
+      },
+      {
+        "address": "Anand Vihar",
+        "city": "Delhi"
+      },
+      {
+        "address": "Jakat Naka",
+        "city": "Pune"
+      },
+      {
+        "address": "London Bridge",
+        "city": "Pune"
+      }, {
+        "address": "FC Road",
+        "city": "Pune"
+      },
+      {
+        "address": "Chandni Chowk",
+        "city": "Pune"
+      }
+    ],"collName":"locations" }
